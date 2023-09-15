@@ -1,6 +1,6 @@
-## Passo 1: Instalação do Visual Studio Code
+## Passo 1: Instalação do Sublime
 
-🟢 [Instalação do editor de código](/src/Editor.md)
+🟢 [Instalação do editor de código](/src/Sublime.md)
 
 ### Passo 2: Adição de traduções aos arquivos Blade
 
