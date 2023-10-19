@@ -1,10 +1,12 @@
 ## Progresso
 
-- Taxa: 68 / 284 = 23%
+- Diretórios verificados: 119 / 284 = 41%
+
+- To do: 316
 
 ```txt
 .
-├── app
+├── app 🟢
 │   ├── Channels 🟢
 │   ├── Console 🟢
 │   │   └── Commands 🟢
@@ -12,53 +14,53 @@
 │   │       └── SingleUse 🟢
 │   ├── Events 🟢
 │   ├── Exceptions 🟢
-│   ├── Factories
-│   │   ├── CreditsGateway
-│   │   ├── Payment
-│   │   ├── TextMessageService
-│   │   └── User
-│   │       └── InformationRequest
-│   ├── Helpers
-│   ├── Http
-│   │   ├── Controllers
-│   │   │   ├── Api
-│   │   │   └── Auth
-│   │   ├── Middleware
-│   │   ├── Requests
-│   │   ├── Resources
-│   │   └── ViewComposers
+│   ├── Factories 🟢
+│   │   ├── CreditsGateway 🟢
+│   │   ├── Payment 🟢
+│   │   ├── TextMessageService 🟢
+│   │   └── User 🟢
+│   │       └── InformationRequest 🟢
+│   ├── Helpers 🟢
+│   ├── Http 🟢
+│   │   ├── Controllers 🟢
+│   │   │   ├── Api 🟢
+│   │   │   └── Auth 🟢
+│   │   ├── Middleware 🟢
+│   │   ├── Requests 🟢
+│   │   ├── Resources 🟢
+│   │   └── ViewComposers 🟢
 │   ├── Jobs 🟢
 │   ├── Listeners 🟢
-│   ├── Mail
-│   ├── Mocks
-│   │   ├── TextMessageService
-│   │   └── User
-│   │       └── InformationService
-│   ├── Models
-│   │   ├── Traits
-│   │   │   └── User
-│   │   └── Translatable
-│   │       ├── AdType
-│   │       ├── Amenity
-│   │       ├── PlaceType
-│   │       └── Rule
-│   ├── Notifications
-│   ├── Observers
-│   ├── Pipelines
-│   │   └── Address
-│   ├── Policies
+│   ├── Mail 🟢
+│   ├── Mocks 🟢
+│   │   ├── TextMessageService 🟢
+│   │   └── User 🟢
+│   │       └── InformationService 🟢
+│   ├── Models 🟢
+│   │   ├── Traits 🟢
+│   │   │   └── User 🟢
+│   │   └── Translatable 🟢
+│   │       ├── AdType 🟢
+│   │       ├── Amenity 🟢
+│   │       ├── PlaceType 🟢
+│   │       └── Rule 🟢
+│   ├── Notifications 🟢
+│   ├── Observers 🟢
+│   ├── Pipelines 🟢
+│   │   └── Address 🟢
+│   ├── Policies 🟢
 │   ├── Presenters 🟢
 │   │   └── Traits 🟢
-│   ├── Providers
-│   ├── Repositories
-│   │   ├── InitialContact
-│   │   ├── Message
-│   │   ├── PropertyAd
-│   │   ├── RoommateAd
-│   │   └── User
-│   ├── Searches
-│   │   └── PropertyAd
-│   │       └── Filters
+│   ├── Providers 🟢
+│   ├── Repositories 🟢
+│   │   ├── InitialContact 🟢
+│   │   ├── Message 🟢
+│   │   ├── PropertyAd 🟢
+│   │   ├── RoommateAd 🟢
+│   │   └── User 🟢
+│   ├── Searches 🟢
+│   │   └── PropertyAd 🟢
+│   │       └── Filters 🟢
 │   ├── Services
 │   │   ├── AdComplaint 🟢
 │   │   ├── AppData 🟢
@@ -111,13 +113,13 @@
 │   │       └── SecurityFlag 🟢
 │   ├── Ssr 🟢
 │   └── Traits 🟢
-├── config
-├── database
-│   ├── factories
-│   ├── migrations
-│   └── seeders
-│       ├── Immutable
-├── laravel-echo
+├── config 🟢
+├── database 🟢
+│   ├── factories 🟢
+│   ├── migrations 🟢
+│   └── seeders 🟢
+│       ├── Immutable 🟢
+├── laravel-echo 🟢
 ├── resources
 │   ├── assets
 │   │   ├── js
